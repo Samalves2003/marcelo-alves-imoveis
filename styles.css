@@ -199,13 +199,7 @@ body {
 }
 
 /* Hero Section */
-.hero-content {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 4rem;
-    align-items: center;
-    min-width: 0;
-}
+
 .hero {
     height: 100vh;
     position: relative;
